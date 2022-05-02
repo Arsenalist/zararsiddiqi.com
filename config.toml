@@ -1,0 +1,7 @@
+baseURL = 'https://zararsiddiqi.com/'
+languageCode = 'en-us'
+title = "Zarar Siddiqi's blog"
+theme = "papermod"
+paginate = "10000"
+[permalinks]
+  'posts' = '/:filename/'
