@@ -1,5 +1,5 @@
 ---
-title: "The Illusion of Quality at the Cost of Quality"
+title: "UI Tests: The Illusion of Quality at the Cost of Quality"
 description: UI tests are a very small part of a quality strategy and can create unnecessary divisions within a team. Avoid them.
 date: '2022-05-09T09:00:00.000Z'
 categories: ["testing", "agile"]
