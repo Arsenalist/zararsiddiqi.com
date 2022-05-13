@@ -27,6 +27,8 @@ languages:
           url: archives
         - name: Categories
           url: categories/
+        - name: Me
+          url: pages/me
 
 params:
   defaultTheme: auto

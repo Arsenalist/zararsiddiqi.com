@@ -1,4 +1,4 @@
-I'm a software engineer(ing manager) with a focus on continuous delivery.
+I'm a software engineer(ing manager) and coach with a focus on continuous delivery.
 
 - [Twitter](https://twitter.com/cornersniper)
 - [Arsenalist Twitter](https://twitter.com/arsenalist)
