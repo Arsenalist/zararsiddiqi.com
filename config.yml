@@ -1,0 +1,46 @@
+baseURL: "https://zararsiddiqi.com/"
+languageCode: "en-us"
+title: "Zarar Siddiqi's blog"
+theme: "papermod"
+paginate: "10000"
+enableInlineShortcodes: true
+enableRobotsTXT: true
+permalinks:
+  posts: "/:filename/"
+minify:
+    disableXML: true
+    minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: RSS
+          url: index.xml
+        - name: Archive
+          url: archives
+        - name: Categories
+          url: categories/
+
+params:
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
