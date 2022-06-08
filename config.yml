@@ -36,6 +36,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
 
 outputs:
     home:
