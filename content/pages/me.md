@@ -1,6 +1,8 @@
 I'm a software engineer(ing manager) and coach with a focus on continuous delivery.
 
-- [Twitter](https://twitter.com/cornersniper)
+- [Bit Byte Bit Newsletter](https://bitbytebit.substack.com)
+- [Ijtihad Newsletter](https://ijtihad.substack.com)
+- [Personal Twitter - @zararsiddiqi](https://twitter.com/zararsiddiqi)
 - [Arsenalist Twitter](https://twitter.com/arsenalist)
 - [Github](https://github.com/arsenalist)
 - [Raptors Republic Writing](https://www.raptorsrepublic.com/author/arsenalist/)

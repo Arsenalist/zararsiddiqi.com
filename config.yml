@@ -1,7 +1,7 @@
 baseURL: "https://zararsiddiqi.com/"
 languageCode: "en-us"
 title: "Zarar Siddiqi's blog"
-theme: "papermod"
+theme: "hugo-theme-anubis"
 paginate: "10000"
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -21,12 +21,6 @@ languages:
       series: series
     menu:
       main:
-        - name: RSS
-          url: index.xml
-        - name: Archive
-          url: archives
-        - name: Categories
-          url: categories/
         - name: Me
           url: pages/me
 
@@ -36,6 +30,11 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
+  profileMode:
+    enabled: true
+  socialIcons:
+    - name: "Twitter"
+      url: "https://twitter.com/zararsiddiqi"
 
 outputs:
     home:
