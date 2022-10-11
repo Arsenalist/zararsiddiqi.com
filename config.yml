@@ -35,6 +35,7 @@ params:
   socialIcons:
     - name: "Twitter"
       url: "https://twitter.com/zararsiddiqi"
+  ShowFullTextinRSS: true
 
 outputs:
     home:
